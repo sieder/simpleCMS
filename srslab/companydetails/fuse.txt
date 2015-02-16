@@ -1,0 +1,19 @@
+FUSES & VARISTORS: 
+
+NON-RESETTABLE FUSES: 
+SCHURTER's Non-Resettable Fuses provide low voltage primary and secondary protection. Devices meet applicable international safety standards. The MGA-S type fuse complies with ESA/ESCC Generic Specification No. 4008 for use in space. 
+
+TELECOM FUSES: 
+SCHURTER's Telecom Fuses provide secondary protection in telecommunications equipment. Devices meet applicable international safety standards. 
+
+RESETTABLE FUSES: 
+SCHURTER's Resettable Fuses are designed for protection of low voltage DC circuits. Resettable fuses limit fault current to acceptable levels while a fault is present. 
+
+VARISTORS: 
+SCHURTER's Varistors are designed for primary and secondary overvoltage protection of AC and DC applications. Varistors come into operation when a power surge occurs. 
+
+FUSEHOLDERS: 
+SCHURTER's Fuseholders include types for holding cartridge fuses and types for sub-miniature and miniature fuses. Devices meet applicable international safety standards. 
+
+FUSEHOLDER BLOCKS & CLIPS: 
+SCHURTER's Fuseholders include devices for holding cartridge fuses and types for sub-miniature and miniature fuses. They meet applicable international safety standards.

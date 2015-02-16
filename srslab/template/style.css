@@ -1,0 +1,41 @@
+
+
+.body {
+	margin: 0 200px 0 200px;
+	background-image:url('Images/bg.jpg');
+	background-repeat:no-repeat;
+	background-position:top right;
+	
+	
+}
+
+.navigation {
+	text-decoration:none;
+	padding-right:10px;
+	padding-left:10px;
+	font-family: Arial;
+	
+	
+	
+}
+.sidebarleft{
+	margin-top: 10px;
+	padding-bottom: 20px;
+	border-color: gray;
+	padding: 10px 15px 10px 10px;
+	float:left;
+}
+
+.box {
+	margin-top: 10px;
+	padding-bottom: 20px;
+	border-color: gray;
+	float:left;
+}
+
+.trans{
+	opacity: 0.8; filter: alpha(opacity=90);
+	
+}
+
+

@@ -1,0 +1,13 @@
+4 axis palletizing robot KUKA Roboter
+
+KR 40 PA 
+It really stacks up: the new KUKA palletizing robot is capable of stacking europallets up to 1,6 m net height. State-of-the-art materials (carbon fiber composite CRP) make the robot extremely light, without sacrificing high stiffness. 
+
+KR 100-2 PA 
+It really stacks up: the new KUKA palletizing robot is capable of stacking europallets up to 3 m net height. State-of-the-art materials (carbon fiber composite CRP) make the robot extremely light, without sacrificing high stiffness. 
+
+KR 180-2 PA 
+It really stacks up: the new KUKA palletizing robot is capable of stacking europallets up to 3 m net height. State-of-the-art materials (carbon fiber composite CRP) make the robot extremely light, without sacrificing high stiffness. 
+
+KR 180-2 PA Arctic 
+The frost-proof palletizing robot. Ice-cream, pizza, fast-food, fish filets - the "Arctic" can handle any pallet, however frosty the load. At temperatures down to -30 °C, it still shoulders its full payload of 180 kg: without a protective shroud and without any heating - just as you%u2019d expect from a technological pioneer like KUKA. 

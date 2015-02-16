@@ -1,0 +1,15 @@
+Semiconductor surge arrester type 3 Littelfuse
+
+Asymmetrical Modified MS-013 Balanced Three-chip SIDACtor® Device This balanced protector is a surface mount alternative to the modified TO-220 package. Based on a six-pin surface mount SOIC package, it uses Littelfuse's patented "Y" (US Patent 4,905,119) configuration. It is available in surge current ratings up to 500A. 
+
+SIDACtor devices are used to enable equipment to meet various regulatory requirements including GR 1089, ITU K.20, K.21, and K.45, IEC 60950, UL 60950, and TIA-968 (formerly known as FCC Part 68). 
+
+Notes: 
+All measurements are made at an ambient temperature of 25°C. Ipp applies to -40°C through +85°C temperature range. 
+Ipp is a repetitive surge rating and is guaranteed for the life of the product. 
+Listed SIDACtor® devices are bi-directional. All electrical parameters & surge ratings apply to forward and reverse polarities. 
+Vdrm is measured at Idrm. 
+Vs is measured at 100 V/µs. 
+Special voltage (Vs & Vdrm) and holding current (Ih) requirements are available upon request. 
+Off-state capacitance is measured between Pins 1-3 and 1-4 at 1 MHz with a 2 V bias. 
+Designed to meet balance requirements of GTS 8700 and GR 974.

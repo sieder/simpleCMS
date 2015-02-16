@@ -1,0 +1,8 @@
+Semiconductor protection gS type fuse Ferraz Shawmut
+690V, IR 160kA, In 25A to 630A
+
+Protistor means unmatched performances in the field of power semiconductor protection 
+
+gS class (as defined by the EN 60269-4 standard) means reliable I2t and protection against all type of overloads 
+
+NH standard (blade-style fuses) means the capability for installing in any type of NH fusegear: bases and holders, disconnectors, switch-disconnectors.
